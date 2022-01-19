@@ -1,13 +1,11 @@
 <div align="center"
 
 
-[![SPlRlT-YT](https://i.imgur.com/Mbaz2g9.jpg?size=100000)](https://github.com/SPlRlT-YT)
+[![spirit-ser](https://i.imgur.com/Mbaz2g9.jpg?size=100000)](https://github.com/SPlRlT-YT)
 
-## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit-bot+WA+Bot+repo;Created+by+ABHIRAM+SACHU;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit+ser+WA+Bot+repo;Created+by+SPIRIT+SER;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
-  <p align="center">
-<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-YT/spirit-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
