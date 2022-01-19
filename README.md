@@ -44,7 +44,7 @@ Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make 
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/spirit-bot.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/spirit-ser.git)
      </div>
 <br>
 <br >
@@ -60,8 +60,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/spirit-bot
-$ cd spirit-bot
+$ git clone https://github.com/SPlRlT-YT/spirit-ser
+$ cd spirit-ser
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -70,8 +70,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/spirit-bot
-$ cd spirit-bot
+$ git clone https://github.com/SPlRlT-YT/spirit-set
+$ cd spirit-ser
 $ chmod +x *
 $ npm i
 $ node qr.js
