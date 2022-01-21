@@ -10,18 +10,18 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/xv8HNon.jpeg";
+    r_text[0] = "https://i.imgur.com/Mbaz2g9.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨Abhiram sachu✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💝sᴘɪʀɪᴛ sᴇʀ💝━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐑𝐝𝐱 𝐁𝐨𝐭.
-            *𝐑𝐃𝐗 𝐁𝐎𝐓*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐑𝐑 𝐁𝐨𝐭.
+            *𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🛑𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝐑𝐃𝐗 𝐁𝐎𝐓■□■□■□■□■□
+■□■□■□■□■□𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,8 +120,8 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🛑𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime 𝐑𝐃𝐗 𝐁𝐎𝐓
-■□■□■□■□■𝐑𝐃𝐗 𝐁𝐎𝐓□■□■□■□■□■□
+⚠️anime 𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓
+■□■□■□■□■𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -132,10 +132,10 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🛑𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp 𝐑𝐃𝐗 𝐁𝐎𝐓
+⚠️ex  attp 𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝐑𝐃𝐗 𝐁𝐎𝐓💢═════
-▣▣▣▣▣▣▣▣𝐀𝐒▣▣▣▣▣▣▣▣▣▣▣
+═════💢𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓💢═════
+▣▣▣▣▣▣▣▣𝐒𝐏𝐈𝐑𝐈𝐓▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
