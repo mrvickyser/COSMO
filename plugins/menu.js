@@ -17,11 +17,11 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💝sᴘɪʀɪᴛ sᴇʀ💝━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💝𝐂𝐎𝐒𝐌𝐎 𝐁𝐎𝐓💝━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐑𝐑 𝐁𝐨𝐭.
-            *𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐀𝐍𝐔𝐒𝐄𝐑 𝐁𝐨𝐭.
+            *𝐂𝐎𝐒𝐌𝐎 𝐁𝐎𝐓*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🛑𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓■□■□■□■□■□
+■□■□■□■□■□𝐂𝐎𝐒𝐌𝐎 𝐁𝐎𝐓■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,8 +120,8 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🛑𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime 𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓
-■□■□■□■□■𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓□■□■□■□■□■□
+⚠️anime 
+■□■□■□■□■𝐂𝐎𝐒𝐌𝐎 𝐁𝐎𝐓□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -132,9 +132,9 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🛑𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp 𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓
+⚠️ex  attp 𝐂𝐎𝐒𝐌𝐎 𝐁𝐎𝐓
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝐒𝐏𝐈𝐑𝐈𝐓 𝐒𝐄𝐑 𝐁𝐎𝐓💢═════
+═════💢𝐂𝐎𝐒𝐌𝐎 𝐁𝐎𝐓💢═════
 ▣▣▣▣▣▣▣▣𝐒𝐏𝐈𝐑𝐈𝐓▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
