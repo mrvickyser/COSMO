@@ -91,9 +91,9 @@ By establishing the spirit-bot, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://i.imgur.com/14w3OJb.jpeg?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) 
+  [![ANUSER1](https://github.com/ANUSER1.png?size=10000)](https://github.com/ANUSER1) | 
 ----|----|----
-[spirit ser](https://github.com/SPlRlT-YT) | [spirit ser](https://github.com/SPlRlT-YT) | [spirit](https://github.com/SPlRlT-YT)
+[ANUSER1](https://github.com/ANUSER1) | 
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
