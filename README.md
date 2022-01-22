@@ -6,13 +6,13 @@
 
 [![spirit-ser](COSMO.BOT.jpg?size=100000)](https://github.com/SPlRlT-YT)
 
-## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit+ser+WA+Bot+repo;Created+by+SPIRIT+SER;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅰︎🅽︎🆄︎🆂︎🅴︎🆁︎+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅰︎🅽︎🆂︎🅷︎🅸︎🅳︎+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
 
 
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make it public
+Project created by <a href="https://github.com/ANUSER1">ANUSER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,19 +23,15 @@ Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make 
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/sachu_abhiram_aj?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_0anshid0_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtube.com/channel/UCtcc7j8nB7WfFJ0YJvml13w" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
-  
+
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-YT&show_icons=true&theme=dark&locale=en" alt="SPlRlT-YT" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANUSER1&show_icons=true&theme=dark&locale=en" alt="ANUSER1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-YT&theme=dark" alt="SPlRlT-YT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANUSER1&theme=dark" alt="ANUSER1" /></p>
 </p>
 
 
@@ -47,7 +43,7 @@ Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make 
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/spirit-ser.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMO.git)
      </div>
 <br>
 <br >
