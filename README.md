@@ -1,7 +1,7 @@
 <div align="center"
 
 
-[![spirit-ser](COSMO.jpg?size=100000)](https://github.com/SPlRlT-YT)
+[![spirit-ser](COSMO.BOT.jpg?size=100000)](https://github.com/SPlRlT-YT)
 
 ## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit+ser+WA+Bot+repo;Created+by+SPIRIT+SER;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
