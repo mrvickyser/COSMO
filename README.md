@@ -12,7 +12,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ANUSER1">ANUSER</a> to make it public
+Project created by <a href="https://github.com/ANUSER1">ANSHID</a> to make it public
     <br>
        | © |
         Reserved |
@@ -67,8 +67,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/spirit-ser
-$ cd spirit-ser
+$ git clone https://github.com/ANISER1/COSMO
+$ cd COSMO
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -77,8 +77,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/spirit-set
-$ cd spirit-ser
+$ git clone https://github.com/ANUSER1/COSMO
+$ cd COSMO
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -91,15 +91,14 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, spirit-bot executives do not accept responsibility.
-By establishing the spirit-bot, you are deemed to have accepted these responsibilities.
+Absolutely, COSMO BOT executives do not accept responsibility.
+By establishing the COSMO BOT, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![ANUSER1](https://github.com/ANUSER1.png?size=10000)](https://github.com/ANUSER1) | 
-----|----|----
+  [![ANSHID](https://github.com/ANUSER1.png?size=10000)](https://github.com/ANUSER1) | 
 [ANUSER1](https://github.com/ANUSER1) | 
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
