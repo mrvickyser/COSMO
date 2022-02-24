@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/ANUSER1">ANSHID</a> to make it pu
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/Lp9GE7m6pU7Aa43SHmHMAt" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 
